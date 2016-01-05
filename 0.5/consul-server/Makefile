@@ -1,3 +1,3 @@
 
 build:
-	docker build -t gliderlabs/consul-server .
+	docker build -t alevm/consul-server .
